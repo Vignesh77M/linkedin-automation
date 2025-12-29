@@ -13,8 +13,7 @@ This project is a proof-of-concept demonstrating advanced browser automation usi
 
 ### Set environment variables (Windows CMD)
 
-set LI_USERNAME=your_email
-set LI_PASSWORD=your_password
+set LI_USERNAME=your_email        set LI_PASSWORD=your_password
 
 Run as -> go run ./cmd
 
